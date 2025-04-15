@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What does the 'len()' function do in Python?",
+      "options": ["Returns the type of a variable", "Adds two numbers", "Returns the length of a sequence", "Exits the program"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is used to define a function in Python?",
+      "options": ["define", "func", "function", "def"],
+      "answer": 4
+    },
+    {
+      "question": "What is the output of 'print(2 ** 3)'?",
+      "options": ["6", "8", "9", "5"],
+      "answer": 2
+    },
+    {
+      "question": "Which keyword is used to handle exceptions in Python?",
+      "options": ["catch", "try", "error", "except"],
+      "answer": 4
+    },
+    {
+      "question": "Which data structure uses key-value pairs?",
+      "options": ["List", "Tuple", "Dictionary", "Set"],
+      "answer": 3
+    },
+    {
+      "question": "Which symbol is used for comments in Python?",
+      "options": ["//", "/* */", "#", "<!-- -->"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is NOT a Python data type?",
+      "options": ["String", "Float", "Decimal", "Character"],
+      "answer": 4
+    },
+    {
+      "question": "What will 'print(\"5\" + \"10\")' output?",
+      "options": ["15", "510", "5 10", "Error"],
+      "answer": 2
+    },
+    {
+      "question": "What is the correct way to write a while loop?",
+      "options": ["loop (i < 10)", "while i < 10:", "repeat i < 10", "foreach i in range(10)"],
+      "answer": 2
+    },
+    {
+      "question": "How do you import a module in Python?",
+      "options": ["use module_name", "include module_name", "import module_name", "require module_name"],
+      "answer": 3
+    }
+  ]
+  
